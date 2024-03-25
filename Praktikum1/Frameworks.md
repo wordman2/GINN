@@ -3,12 +3,13 @@
 Welche Methoden wurden in der Vorlesung vorgestellt?
 
 - Foreward Propagation
+- Backward Propagation
 
 ###### ##################################################################################
 # Aufgabe 1b
 Recherchiere geeignete Frameworks (auch andere außer Tensorflow und PyTorch)! Überlegen Sie sich Kriterien, anhand deren Sie die Frameworks evaluieren. Finden Sie heraus, wie die bisher in der Vorlesung vorgestellten Methoden (...) umgesetzt werden können in den Frameworks. Stellen Sie die gesamte Auswertung übersichtlich dar (natürlich inklusive Pros & Cons etc).
 
-Wir untersuchen nur Pythonlibarys.
+Wir untersuchen nur Python Libarys.
 
 ## ChatGPT ##
 Folgenden Output hat mir ChatPT gegeben. Daran könnten wir uns orientieren:  
@@ -59,3 +60,9 @@ Jax als Backend:
 https://github.com/NervanaSystems/neon/blob/master/README.md
 - Vorteil: gut für große Netze
 - Nachteil: Wird nicht mehr entwickelt, Tutorials gelöscht, keine aktive Community
+
+### PaddlePaddle
+Steht für: PArallel Distributed Deep LEarning
+Quelle: https://learnopencv.com/paddlepaddle/
+- Vorteil: sehr schnell, Parallelisierung, vortrainierte Modelle vorhanden
+- Nachteil: wenig Anleitungen
