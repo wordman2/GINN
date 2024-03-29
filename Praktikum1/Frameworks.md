@@ -55,6 +55,7 @@ Jax als Backend:
 - Kombination von Funktionen möglich, da funktionales Programmiermodell
 - ist schnell und kann mit GPU/TPU umgehen
 - Quelle: https://www.newhorizons.com/resources/blog/jax-vs-pytorch-comparing-two-deep-learning-frameworks
+- Durch die hohe Beliebheit gut dokumentiert und aktive Community
 
 ### Neon
 https://github.com/NervanaSystems/neon/blob/master/README.md
